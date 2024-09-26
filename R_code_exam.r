@@ -19,7 +19,7 @@ library("raster") #elaboratore di immagini
 library("gridExtra") #combinazione di grafici e tabelle
 library("ggplot2") #creazione di grafici
 
-#L'obiettivo del progetto è studiare l'andamento della presenza di acqua e vegetazione negli ultimi 40 anni
+#Il focus del progetto è studiare l'andamento della presenza di acqua e vegetazione negli ultimi 40 anni
 #utilizzando 4 immagini satellitari dell'anno 1987 (LandSat 5), 2003 (LandSat 7), 2013 (LandSat 7) e
 #2021 (LandSat 8).
 #Le immagini originali sono state editate con Adobe Illustrator.
